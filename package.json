@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha -r mocha_setup.js test.js"
   },
+  "engines": {
+    "node": "0.10.28"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
